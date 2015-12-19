@@ -4,7 +4,7 @@
   var TestUtils = require('react-addons-test-utils');
   var $ = require('teaspoon');
 
-  function PxTestUtils {
+  function PxTestUtils() {
   }
 
   /**

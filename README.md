@@ -1,5 +1,5 @@
 # px-test-utils
-Helper functions for mocha unit tests using teaspoon, react-addons-test-utils, etc.
+Helper functions for mocha unit tests using [teaspoon](https://github.com/jquense/teaspoon), react-addons-test-utils, etc.
 
 # Installation
 ```
