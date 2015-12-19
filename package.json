@@ -1,26 +1,26 @@
 {
   "name": "px-test-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper functions for mocha unit tests using teaspoon, react-addons-test-utils, etc.",
+  "author": "Duc Ng (https://github.com/ngduc)",
+  "homepage": "https://github.com/ngduc/px-test-utils#readme",
+  "license": "MIT",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ngduc/px-test-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngduc/px-test-utils/issues"
   },
   "keywords": [
     "react",
     "test",
     "utils"
   ],
-  "author": "Duc Ng (https://github.com/ngduc)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ngduc/px-test-utils/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/ngduc/px-test-utils#readme",
   "dependencies": {
     "react": "^0.14.3",
     "react-dom": "^0.14.3",

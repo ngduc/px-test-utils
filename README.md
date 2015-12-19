@@ -24,3 +24,6 @@ describe('My Component', () => {
   });
 })
 ```
+
+# Why
+px-test-utils is just a wrapper to help write cleaner, shorter unit tests.
