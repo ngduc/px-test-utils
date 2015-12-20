@@ -1,6 +1,6 @@
 {
   "name": "px-test-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helper functions for mocha unit tests using teaspoon, react-addons-test-utils, etc.",
   "author": "Duc Ng (https://github.com/ngduc)",
   "homepage": "https://github.com/ngduc/px-test-utils#readme",

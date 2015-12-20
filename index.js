@@ -9,8 +9,8 @@
 
   /**
    * Render react element and return React renderer and $el (teaspoon).
-   * @param  {object} reactEl React Element
-   * @return {object, object} renderer, $el
+   * @param  {object} reactEl - React Element
+   * @return {object, object} - renderer, $el
    */
   PxTestUtils.render = function(reactEl) {
     const renderer = TestUtils.createRenderer();
